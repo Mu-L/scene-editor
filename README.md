@@ -15,7 +15,7 @@
 
 1、目前只有windows系统版本。
 
-2、在Releases下载对应压缩包解压到非C盘系统目录，运行`viseek.exe`即可。
+2、在[Releases](https://github.com/vis-three/viseek/releases)下载对应压缩包解压到非C盘系统目录，运行`viseek.exe`即可。
 
 3、本软件本体为了模拟web环境会在本地启动web服务，不会向任何外部服务发送信息，请各位监督。
 
